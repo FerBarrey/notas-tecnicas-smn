@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "Si usás este material, por favor citá las notas técnicas originales."
+title: "Notas Técnicas SMN – Fernando Diego Barreyro"
+type: generic
+authors:
+  - family-names: "Barreyro"
+    given-names: "Fernando Diego"
+    affiliation: "Servicio Meteorológico Nacional, Argentina"
+repository-code: "https://github.com/FerBarrey/notas-tecnicas-smn"
+keywords:
+  - experiencia ciudadana
+  - procesamiento de lenguaje natural
+  - sistema de alerta temprana
+  - gestión del riesgo de desastres
+  - análisis de datos
+preferred-citation:
+  type: report
+  title: "Análisis Estratégico de Experiencia Ciudadana (CX) mediante Procesamiento de Lenguaje Natural (PNL): Una Arquitectura Orientada a Objetos para el Monitoreo Estratégico de la App móvil del SMN"
+  authors:
+    - family-names: "Barreyro"
+      given-names: "Fernando Diego"
+  institution:
+    name: "Servicio Meteorológico Nacional"
+  collection-title: "Nota Técnica SMN"
+  number: "2026-217"
+  year: 2026
+  month: 9
+  url: "http://hdl.handle.net/20.500.12160/3316"
+references:
+  - type: report
+    title: "Relevamiento de usos y valoraciones del Sistema de Alerta Temprana y productos del SMN en usuarios del sector de emergencias y gestión del riesgo de desastres entre 2024 y 2025"
+    authors:
+      - family-names: "Barreyro"
+        given-names: "Fernando Diego"
+      - family-names: "Goñi"
+        given-names: "Julián Martín"
+    institution:
+      name: "Servicio Meteorológico Nacional"
+    collection-title: "Nota Técnica SMN"
+    number: "2026-210"
+    year: 2026
+    month: 5
+    url: "http://hdl.handle.net/20.500.12160/3248"
