@@ -12,7 +12,7 @@ lenguaje natural y sistemas de alerta temprana para la gestión del riesgo de de
 ## 📄 NT SMN 2026-217 · Análisis Estratégico de Experiencia Ciudadana (CX) mediante Procesamiento de Lenguaje Natural
 
 **Título completo:** Análisis Estratégico de Experiencia Ciudadana (CX) mediante Procesamiento de
-Lenguaje Natural (PNL): Una Arquitectura Orientada a Objetos para el Monitoreo Estratégico de la App móvil del SMN
+Lenguaje Natural (PNL): Una Arquitectura Orientada a Objetos para el Monitoreo Estratégico de la App móvil del SMN <br>
 **Autor:** Fernando Diego Barreyro · **Fecha:** septiembre 2026
 
 Ecosistema de ciencia de datos para monitorear la "Voz del Ciudadano" sobre la app oficial del SMN
@@ -60,7 +60,7 @@ satisfacción y oportunidades de mejora.
 
 > Barreyro, F. D., Goñi, J. M., 2026: Relevamiento de usos y valoraciones del Sistema de Alerta Temprana
 > y productos del SMN en usuarios del sector de emergencias y gestión del riesgo de desastres entre 2024
-> y 2025. *Nota Técnica SMN 2026-210*. http://hdl.handle.net/20.500.12160/3248
+> y 2025.<br> *Nota Técnica SMN 2026-210*. http://hdl.handle.net/20.500.12160/3248
 
 ## Derechos
 
